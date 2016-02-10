@@ -7,3 +7,8 @@ Animals by Alphabet
 ## B
 
 ## C
+
+## D
+
+## E
+- Elephant
